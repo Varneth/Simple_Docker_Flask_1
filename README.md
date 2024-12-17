@@ -23,7 +23,7 @@ Specify Flask and Werkzeug versions to ensure compatibility:
 ## 3. Dockerfile<br>
 Use Python as the base image and install the dependencies:
 
-[Dockerfile](Dockerfile)
+[Dockerfile](dockerfile)
 
 ## 4. Build and Run the Docker Image<br>
 ### 1.Build the Docker Image:
